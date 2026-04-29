@@ -1,4 +1,4 @@
-# mkdir_auto
+# mkdir-auto
 
 ## **概要**
 `mkdir_remote` は、プロジェクトのディレクトリ構造を自動的に作成する Python スクリプトです。  
